@@ -265,7 +265,7 @@ if (typeof jQuery === 'undefined') {
 
   $.fn.button             = Plugin
   $.fn.button.Constructor = Button
-
+  
 
   // BUTTON NO CONFLICT
   // ==================
